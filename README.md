@@ -1,4 +1,4 @@
-Ppractica-Ordenes-FrontEnd
+# FrontEnd
 
 Este proyecto es la parte FrontEnd de una aplicación que permite realizar ordenes de productos para clientes.El proyecto se comunica con la parte del BackEnd mediante el uso de servicios REST con el framework spring.
 
