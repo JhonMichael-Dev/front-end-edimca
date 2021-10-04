@@ -1,3 +1,10 @@
+Ppractica-Ordenes-FrontEnd
+
+Este proyecto es la parte FrontEnd de una aplicación que permite realizar ordenes de productos para clientes.El proyecto se comunica con la parte del BackEnd mediante el uso de servicios REST con el framework spring.
+
+- Para la clonación del proyecto BackEnd desarrollado en Java con el framework Spring, se puede acceder a través de:
+ 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
